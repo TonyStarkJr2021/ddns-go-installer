@@ -225,6 +225,14 @@ DDNS-GO 本体及相关功能由其上游项目维护。
 
 ---
 
+## 📜 License
+
+本项目采用 [MIT License](LICENSE) 开源。
+
+DDNS-GO 本体遵循其上游项目自己的开源许可证，本项目不改变 DDNS-GO 原有的授权方式。
+
+---
+
 ## ⭐ Support
 
 如果这个项目对你有帮助，欢迎点一个 **Star**。
